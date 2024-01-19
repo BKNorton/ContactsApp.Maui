@@ -1,0 +1,17 @@
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.deps.json
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.CoreBusiness.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.UseCases.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.UseCases.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net7.0\Contacts.CoreBusiness.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.AssemblyInfo.cs
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.csproj.CoreCompileInputs.cache
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.csproj.CopyComplete
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\refint\Contacts.Plugins.DataStore.InMemory.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\Contacts.Plugins.DataStore.InMemory.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net7.0\ref\Contacts.Plugins.DataStore.InMemory.dll

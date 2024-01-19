@@ -1,32 +1,33 @@
 using Contacts.Maui.Models;
+using Contacts.UseCases.Interfaces;
 using Microsoft.Maui.ApplicationModel.Communication;
 using System.Collections.ObjectModel;
-using Contact = Contacts.Maui.Models.Contact;
+using Contact = Contacts.CoreBusiness.Contact;
 
 namespace Contacts.Maui.Views;
 
 public partial class ContactsPage : ContentPage
 {
-	public ContactsPage()
+    private readonly IViewContactsUseCase viewContactsUseCase;
+    private readonly IDeleteContactUseCase deleteContactUseCase;
+
+    public ContactsPage(IViewContactsUseCase viewContactsUseCase, IDeleteContactUseCase deleteContactUseCase)
 	{
 		InitializeComponent();
-
-		List<Contact> contacts = ContactRepository.GetContacts();
-		
-
-		listContacts.ItemsSource = contacts;
-	}
+        this.viewContactsUseCase = viewContactsUseCase;
+        this.deleteContactUseCase = deleteContactUseCase;
+    }
 
     protected override void OnAppearing()
     {
         base.OnAppearing();
+        SearchBar.Text = string.Empty;
         LoadContacts();
     }
 
-    private void LoadContacts()
+    private async void LoadContacts()
     {
-        var contacts = new ObservableCollection<Contact>(ContactRepository.GetContacts());
-        SearchBar.Text = string.Empty;
+        var contacts = new ObservableCollection<CoreBusiness.Contact>(await this.viewContactsUseCase.ExecuteAsync(string.Empty));    
         listContacts.ItemsSource = contacts;
     }
 
@@ -35,7 +36,7 @@ public partial class ContactsPage : ContentPage
         if (listContacts.SelectedItem != null)
         {
             //logic
-            await Shell.Current.GoToAsync($"{nameof(EditContactPage)}?Id={((Contact)listContacts.SelectedItem).ContactId}");
+            await Shell.Current.GoToAsync($"{nameof(EditContactPage)}?Id={((CoreBusiness.Contact)listContacts.SelectedItem).ContactId}");
         }
     }
 
@@ -49,17 +50,17 @@ public partial class ContactsPage : ContentPage
         Shell.Current.GoToAsync(nameof(AddContactPage));
     }
 
-    private void Delete_Clicked(object sender, EventArgs e)
+    private async void Delete_Clicked(object sender, EventArgs e)
     {
         var menuItem = (MenuItem)sender;
-        var contact = menuItem.CommandParameter as Contact;
-        ContactRepository.DeleteContact(contact.ContactId); 
+        var contact = menuItem.CommandParameter as CoreBusiness.Contact;
+        await deleteContactUseCase.ExecuteAsync(contact.ContactId); 
         LoadContacts();
     }
 
-    private void SearchBar_TextChanged(object sender, TextChangedEventArgs e)
+    private async void SearchBar_TextChanged(object sender, TextChangedEventArgs e)
     {
-        var contacts = new ObservableCollection<Contact>(ContactRepository.SearchContacts(((SearchBar)sender).Text));
+        var contacts = new ObservableCollection<CoreBusiness.Contact>(await this.viewContactsUseCase.ExecuteAsync(((SearchBar)sender).Text));
         listContacts.ItemsSource = contacts;
     }
 

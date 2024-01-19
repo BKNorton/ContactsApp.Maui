@@ -1,5 +1,6 @@
 using Contacts.Maui.Models;
-using Contact = Contacts.Maui.Models.Contact;
+using Contacts.UseCases.Interfaces;
+using Contact = Contacts.CoreBusiness.Contact;
 
 namespace Contacts.Maui.Views;
 
@@ -7,11 +8,16 @@ namespace Contacts.Maui.Views;
 public partial class EditContactPage : ContentPage
 {
 	private Contact contact;
+    private readonly IViewContactUseCase viewContactUseCase;
+    private readonly IEditContactUseCase editContactUseCase;
 
-	public EditContactPage()
+    public EditContactPage(IViewContactUseCase viewContactUseCase, 
+		IEditContactUseCase editContactUseCase)
 	{
 		InitializeComponent();
-	}
+        this.viewContactUseCase = viewContactUseCase;
+        this.editContactUseCase = editContactUseCase;
+    }
 
 	private void btnCancel_Clicked(object sender, EventArgs e)
 	{
@@ -22,7 +28,7 @@ public partial class EditContactPage : ContentPage
 	{
 		set
 		{
-			contact = ContactRepository.GetContactById(int.Parse(value));
+			contact = viewContactUseCase.ExecuteAsync(int.Parse(value)).GetAwaiter().GetResult(); 
 			if (contact != null)
 			{
 				contactCtrl.Name = contact.Name;
@@ -33,15 +39,17 @@ public partial class EditContactPage : ContentPage
 		}
 	}
 
-    private void btnUpdate_Clicked(object sender, EventArgs e)
+    private async void btnUpdate_Clicked(object sender, EventArgs e)
     {
 		contact.Name = contactCtrl.Name;
 		contact.Email = contactCtrl.Email;
 		contact.Phone = contactCtrl.Phone;
 		contact.Address = contactCtrl.Address;
 
-		ContactRepository.UpdateContact(contact.ContactId, contact);
-		Shell.Current.GoToAsync("..");	
+		//ContactRepository.UpdateContact(contact.ContactId, contact);
+		await editContactUseCase.ExecuteAsync(contact.ContactId, contact);
+
+		await Shell.Current.GoToAsync("..");	
     }
 
     private void contactCtrl_OnError(object sender, string e)

@@ -40,10 +40,17 @@
                                 IsDestructive="True"
                                 Clicked="Delete_Clicked"
                                 CommandParameter="{Binding .}">
+
+                            </MenuItem>
+                            <MenuItem
+                                Text="Message"
+                                IsDestructive="False">
+                                
                             </MenuItem>
                         </TextCell.ContextActions>
                     </TextCell>
                 </DataTemplate>
+            
             </ListView.ItemTemplate>
             
         </ListView>

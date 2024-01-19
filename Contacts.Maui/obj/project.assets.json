@@ -1953,6 +1953,42 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-android33.0/android-arm": {
@@ -3906,6 +3942,42 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -5861,6 +5933,42 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-android33.0/android-x64": {
@@ -7814,6 +7922,42 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -9769,6 +9913,42 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-android33.0/iossimulator-x64": {
@@ -11722,6 +11902,42 @@
         },
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -13677,6 +13893,42 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-android33.0/win10-x64": {
@@ -15631,6 +15883,42 @@
         "build": {
           "buildTransitive/net6.0-android31.0/Xamarin.KotlinX.Coroutines.Core.Jvm.targets": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-ios16.1": {
@@ -15843,6 +16131,42 @@
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -16057,6 +16381,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-ios16.1/android-arm64": {
@@ -16269,6 +16629,42 @@
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -16483,6 +16879,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-ios16.1/android-x86": {
@@ -16695,6 +17127,42 @@
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -16909,6 +17377,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-ios16.1/maccatalyst-x64": {
@@ -17121,6 +17625,42 @@
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -17335,6 +17875,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1": {
@@ -17547,6 +18123,42 @@
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -17761,6 +18373,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/android-arm64": {
@@ -17973,6 +18621,42 @@
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -18187,6 +18871,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/android-x86": {
@@ -18399,6 +19119,42 @@
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -18613,6 +19369,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/maccatalyst-x64": {
@@ -18826,6 +19618,42 @@
             "related": ".pdb;.xml"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-maccatalyst16.1/win10-x64": {
@@ -19038,6 +19866,42 @@
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
             "related": ".pdb;.xml"
           }
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -19416,6 +20280,42 @@
             "rid": "win"
           }
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/android-arm": {
@@ -19758,6 +20658,42 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -20102,6 +21038,42 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/android-x64": {
@@ -20444,6 +21416,42 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -20788,6 +21796,42 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/iossimulator-x64": {
@@ -21131,6 +22175,42 @@
         "build": {
           "buildTransitive/net6.0/_._": {}
         }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        }
       }
     },
     "net7.0-windows10.0.19041/maccatalyst-x64": {
@@ -21473,6 +22553,42 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     },
@@ -21822,6 +22938,42 @@
         },
         "build": {
           "buildTransitive/net6.0/_._": {}
+        }
+      },
+      "Contacts.CoreBusiness/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.CoreBusiness.dll": {}
+        }
+      },
+      "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.UseCases": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.Plugins.DataStore.InMemory.dll": {}
+        }
+      },
+      "Contacts.UseCases/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Contacts.CoreBusiness": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Contacts.UseCases.dll": {}
         }
       }
     }
@@ -25141,11 +26293,29 @@
         "xamarin.kotlinx.coroutines.core.jvm.1.6.4.1.nupkg.sha512",
         "xamarin.kotlinx.coroutines.core.jvm.nuspec"
       ]
+    },
+    "Contacts.CoreBusiness/1.0.0": {
+      "type": "project",
+      "path": "../Contacts.CoreBusiness/Contacts.CoreBusiness.csproj",
+      "msbuildProject": "../Contacts.CoreBusiness/Contacts.CoreBusiness.csproj"
+    },
+    "Contacts.Plugins.DataStore.InMemory/1.0.0": {
+      "type": "project",
+      "path": "../Contacts.Plugins.DataStore.InMemory/Contacts.Plugins.DataStore.InMemory.csproj",
+      "msbuildProject": "../Contacts.Plugins.DataStore.InMemory/Contacts.Plugins.DataStore.InMemory.csproj"
+    },
+    "Contacts.UseCases/1.0.0": {
+      "type": "project",
+      "path": "../Contacts.UseCases/Contacts.UseCases.csproj",
+      "msbuildProject": "../Contacts.UseCases/Contacts.UseCases.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net7.0-android33.0": [
       "CommunityToolkit.Maui >= 6.0.0",
+      "Contacts.CoreBusiness >= 1.0.0",
+      "Contacts.Plugins.DataStore.InMemory >= 1.0.0",
+      "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -25166,6 +26336,9 @@
     ],
     "net7.0-ios16.1": [
       "CommunityToolkit.Maui >= 6.0.0",
+      "Contacts.CoreBusiness >= 1.0.0",
+      "Contacts.Plugins.DataStore.InMemory >= 1.0.0",
+      "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -25175,6 +26348,9 @@
     ],
     "net7.0-maccatalyst16.1": [
       "CommunityToolkit.Maui >= 6.0.0",
+      "Contacts.CoreBusiness >= 1.0.0",
+      "Contacts.Plugins.DataStore.InMemory >= 1.0.0",
+      "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -25184,6 +26360,9 @@
     ],
     "net7.0-windows10.0.19041": [
       "CommunityToolkit.Maui >= 6.0.0",
+      "Contacts.CoreBusiness >= 1.0.0",
+      "Contacts.Plugins.DataStore.InMemory >= 1.0.0",
+      "Contacts.UseCases >= 1.0.0",
       "Microsoft.Extensions.Configuration >= 7.0.0",
       "Microsoft.Extensions.DependencyInjection >= 7.0.0",
       "Microsoft.Extensions.Logging >= 7.0.0",
@@ -25230,19 +26409,59 @@
       "frameworks": {
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+            }
+          }
         },
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+            }
+          }
         },
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+            }
+          }
         },
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.CoreBusiness\\Contacts.CoreBusiness.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj"
+            },
+            "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+              "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

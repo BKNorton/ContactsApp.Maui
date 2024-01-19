@@ -1,0 +1,12 @@
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\bin\Debug\net7.0\Contacts.CoreBusiness.deps.json
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\bin\Debug\net7.0\Contacts.CoreBusiness.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\bin\Debug\net7.0\Contacts.CoreBusiness.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\Contacts.CoreBusiness.csproj.AssemblyReference.cache
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\Contacts.CoreBusiness.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\Contacts.CoreBusiness.AssemblyInfoInputs.cache
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\Contacts.CoreBusiness.AssemblyInfo.cs
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\Contacts.CoreBusiness.csproj.CoreCompileInputs.cache
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\Contacts.CoreBusiness.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\refint\Contacts.CoreBusiness.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\Contacts.CoreBusiness.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net7.0\ref\Contacts.CoreBusiness.dll
