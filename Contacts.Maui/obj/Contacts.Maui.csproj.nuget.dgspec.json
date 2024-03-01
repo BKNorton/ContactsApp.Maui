@@ -66,6 +66,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -95,6 +99,10 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -127,6 +135,10 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -222,6 +234,10 @@
               "target": "Package",
               "version": "[1.7.0.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -257,6 +273,10 @@
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -286,6 +306,10 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -321,6 +345,10 @@
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -350,6 +378,10 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -386,6 +418,10 @@
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -427,6 +463,10 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -508,6 +548,9 @@
               },
               "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
                 "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              },
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj"
               }
             }
           },
@@ -522,6 +565,9 @@
               },
               "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
                 "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              },
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj"
               }
             }
           },
@@ -536,6 +582,9 @@
               },
               "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
                 "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              },
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj"
               }
             }
           },
@@ -550,6 +599,9 @@
               },
               "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
                 "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              },
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj"
               }
             }
           }
@@ -567,6 +619,10 @@
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -690,6 +746,10 @@
               "target": "Package",
               "version": "[6.0.0, )"
             },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
               "version": "[7.0.0, )",
@@ -756,6 +816,10 @@
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -824,6 +888,10 @@
             "CommunityToolkit.Maui": {
               "target": "Package",
               "version": "[6.0.0, )"
+            },
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
             },
             "Microsoft.Extensions.Configuration": {
               "target": "Package",
@@ -1020,6 +1088,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1081,6 +1153,10 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1211,6 +1287,10 @@
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1275,6 +1355,10 @@
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1340,6 +1424,10 @@
         "net7.0-windows10.0.19041": {
           "targetAlias": "net7.0-windows10.0.19041.0",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1503,6 +1591,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1564,6 +1656,10 @@
         "net7.0-android33.0": {
           "targetAlias": "net7.0-android",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1694,6 +1790,10 @@
         "net7.0-ios16.1": {
           "targetAlias": "net7.0-ios",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1758,6 +1858,10 @@
         "net7.0-maccatalyst16.1": {
           "targetAlias": "net7.0-maccatalyst",
           "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
             "Microsoft.Extensions.Configuration": {
               "suppressParent": "All",
               "target": "Package",
@@ -1787,6 +1891,525 @@
               "target": "Package",
               "version": "[7.0.92, )",
               "autoReferenced": true
+            }
+          },
+          "imports": [
+            "xamarinios10",
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.MacCatalyst": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-windows10.0.19041": {
+          "targetAlias": "net7.0-windows10.0.19041.0",
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.2.2, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics.Win2D.WinUI.Desktop": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "autoReferenced": true
+            },
+            "Microsoft.WindowsAppSDK": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.2.221209.1, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.Windows.SDK.NET.Ref",
+              "version": "[10.0.19041.29, 10.0.19041.29]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Windows.SDK.NET.Ref": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj",
+        "projectName": "Contacts.Plugins.DataStore.SQLite",
+        "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\Contacts.Plugins.DataStore.SQLite.csproj",
+        "packagesPath": "C:\\Users\\Kirk\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.SQLite\\obj\\",
+        "projectStyle": "PackageReference",
+        "crossTargeting": true,
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Kirk\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0",
+          "net7.0-android",
+          "net7.0-ios",
+          "net7.0-maccatalyst",
+          "net7.0-windows10.0.19041.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              }
+            }
+          },
+          "net7.0-android33.0": {
+            "targetAlias": "net7.0-android",
+            "projectReferences": {
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              }
+            }
+          },
+          "net7.0-ios16.1": {
+            "targetAlias": "net7.0-ios",
+            "projectReferences": {
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              }
+            }
+          },
+          "net7.0-maccatalyst16.1": {
+            "targetAlias": "net7.0-maccatalyst",
+            "projectReferences": {
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              }
+            }
+          },
+          "net7.0-windows10.0.19041": {
+            "targetAlias": "net7.0-windows10.0.19041.0",
+            "projectReferences": {
+              "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj": {
+                "projectPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.UseCases\\Contacts.UseCases.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-android33.0": {
+          "targetAlias": "net7.0-android",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "Xamarin.Android.Glide": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[4.13.2.2, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Browser": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.4.0.3, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Legacy.Support.V4": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.0.0.15, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Lifecycle.LiveData": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.1.1, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Navigation.Common": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.2.1, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Navigation.Fragment": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.2.1, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Navigation.Runtime": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.2.1, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Navigation.UI": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.5.2.1, )",
+              "autoReferenced": true
+            },
+            "Xamarin.AndroidX.Security.SecurityCrypto": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.1.0-alpha03, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Google.Android.Material": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.7.0, )",
+              "autoReferenced": true
+            },
+            "Xamarin.Google.Crypto.Tink.Android": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[1.7.0.1, )",
+              "autoReferenced": true
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.Android": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-ios16.1": {
+          "targetAlias": "net7.0-ios",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.iOS": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Controls": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Core": {
+              "privateAssets": "all"
+            },
+            "Microsoft.Maui.Essentials": {
+              "privateAssets": "all"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+        },
+        "net7.0-maccatalyst16.1": {
+          "targetAlias": "net7.0-maccatalyst",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Extensions.Logging.Abstractions": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )",
+              "autoReferenced": true
+            },
+            "Microsoft.Maui.Graphics": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.92, )",
+              "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [
@@ -1864,6 +2487,14 @@
               "target": "Package",
               "version": "[1.2.221209.1, )",
               "autoReferenced": true
+            },
+            "SQLitePCLRaw.bundle_green": {
+              "target": "Package",
+              "version": "[2.1.8, )"
+            },
+            "sqlite-net-pcl": {
+              "target": "Package",
+              "version": "[1.8.116, )"
             }
           },
           "imports": [

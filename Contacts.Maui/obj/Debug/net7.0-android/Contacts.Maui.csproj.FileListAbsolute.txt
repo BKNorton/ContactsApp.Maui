@@ -981,6 +981,8 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\andro
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\Contacts.Plugins.DataStore.InMemory.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\Contacts.UseCases.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\Contacts.UseCases.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\CommunityToolkit.Mvvm.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\mscorlib.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\System.Collections.Concurrent.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\System.Data.Common.dll
@@ -994,3 +996,13 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\andro
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\System.Runtime.Extensions.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\System.Runtime.Serialization.Formatters.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\System.Xml.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net7.0-android\Contacts.Plugins.DataStore.SQLite.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net7.0-android\Contacts.Plugins.DataStore.SQLite.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net7.0-android\Contacts.Plugins.DataStore.SQLite.xml
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\Contacts.Plugins.DataStore.SQLite.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\Contacts.Plugins.DataStore.SQLite.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLite-net.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.core.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.lib.e_sqlite3.android.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net7.0-android\android\assets\SQLitePCLRaw.provider.e_sqlite3.dll

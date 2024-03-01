@@ -10,6 +10,7 @@ public class MonoPackageManager_Resources {
 		"Microsoft.Maui.Essentials.dll",
 		"CommunityToolkit.Maui.dll",
 		"CommunityToolkit.Maui.Core.dll",
+		"CommunityToolkit.Mvvm.dll",
 		"GoogleGson.dll",
 		"Microsoft.Extensions.Configuration.dll",
 		"Microsoft.Extensions.Configuration.Abstractions.dll",
@@ -21,6 +22,11 @@ public class MonoPackageManager_Resources {
 		"Microsoft.Extensions.Options.dll",
 		"Microsoft.Extensions.Primitives.dll",
 		"Microsoft.Maui.Graphics.dll",
+		"SQLite-net.dll",
+		"SQLitePCLRaw.batteries_v2.dll",
+		"SQLitePCLRaw.core.dll",
+		"SQLitePCLRaw.lib.e_sqlite3.android.dll",
+		"SQLitePCLRaw.provider.e_sqlite3.dll",
 		"Xamarin.Android.Glide.dll",
 		"Xamarin.Android.Glide.Annotations.dll",
 		"Xamarin.Android.Glide.DiskLruCache.dll",
@@ -104,6 +110,7 @@ public class MonoPackageManager_Resources {
 		"Xamarin.KotlinX.Coroutines.Core.Jvm.dll",
 		"Contacts.CoreBusiness.dll",
 		"Contacts.Plugins.DataStore.InMemory.dll",
+		"Contacts.Plugins.DataStore.SQLite.dll",
 		"Contacts.UseCases.dll",
 	};
 	public static String[] Dependencies = new String[]{

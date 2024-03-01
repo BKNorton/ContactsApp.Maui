@@ -159,3 +159,4 @@ Contacts.CoreBusiness.dll
 Contacts.UseCases.dll
 Contacts.CoreBusiness.aar
 Contacts.UseCases.aar
+SQLitePCLRaw.lib.e_sqlite3.android.dll

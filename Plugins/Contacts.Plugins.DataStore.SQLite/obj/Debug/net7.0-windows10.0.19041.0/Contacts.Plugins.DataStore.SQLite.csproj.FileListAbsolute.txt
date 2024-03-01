@@ -1,0 +1,17 @@
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.deps.json
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.dll
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.pdb
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.CoreBusiness.dll
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.UseCases.dll
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.CoreBusiness.pdb
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\bin\Debug\net7.0-windows10.0.19041.0\Contacts.UseCases.pdb
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.csproj.AssemblyReference.cache
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.AssemblyInfoInputs.cache
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.AssemblyInfo.cs
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.csproj.CoreCompileInputs.cache
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.csproj.CopyComplete
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.dll
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\refint\Contacts.Plugins.DataStore.SQLite.dll
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\Contacts.Plugins.DataStore.SQLite.pdb
+C:\Users\Kirk\source\repos\Contacts\Plugins\Contacts.Plugins.DataStore.SQLite\obj\Debug\net7.0-windows10.0.19041.0\ref\Contacts.Plugins.DataStore.SQLite.dll

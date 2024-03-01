@@ -4,6 +4,52 @@
         <name>Contacts.Maui</name>
     </assembly>
     <members>
+        <member name="T:Contacts.Maui.ViewModels.ContactsViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:Contacts.Maui.ViewModels.ContactsViewModel.deleteContactCommand">
+            <summary>The backing field for <see cref="P:Contacts.Maui.ViewModels.ContactsViewModel.DeleteContactCommand"/>.</summary>
+        </member>
+        <member name="P:Contacts.Maui.ViewModels.ContactsViewModel.DeleteContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:Contacts.Maui.ViewModels.ContactsViewModel.DeleteContact(System.Int32)"/>.</summary>
+        </member>
+        <member name="F:Contacts.Maui.ViewModels.ContactsViewModel.goToEditContactCommand">
+            <summary>The backing field for <see cref="P:Contacts.Maui.ViewModels.ContactsViewModel.GoToEditContactCommand"/>.</summary>
+        </member>
+        <member name="P:Contacts.Maui.ViewModels.ContactsViewModel.GoToEditContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand`1"/> instance wrapping <see cref="M:Contacts.Maui.ViewModels.ContactsViewModel.GoToEditContact(System.Int32)"/>.</summary>
+        </member>
+        <member name="F:Contacts.Maui.ViewModels.ContactsViewModel.goToAddContactCommand">
+            <summary>The backing field for <see cref="P:Contacts.Maui.ViewModels.ContactsViewModel.GoToAddContactCommand"/>.</summary>
+        </member>
+        <member name="P:Contacts.Maui.ViewModels.ContactsViewModel.GoToAddContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Contacts.Maui.ViewModels.ContactsViewModel.GoToAddContact"/>.</summary>
+        </member>
+        <member name="T:Contacts.Maui.ViewModels.ContactViewModel">
+            <inheritdoc/>
+            <inheritdoc/>
+            <inheritdoc/>
+        </member>
+        <member name="F:Contacts.Maui.ViewModels.ContactViewModel.editContactCommand">
+            <summary>The backing field for <see cref="P:Contacts.Maui.ViewModels.ContactViewModel.EditContactCommand"/>.</summary>
+        </member>
+        <member name="P:Contacts.Maui.ViewModels.ContactViewModel.EditContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Contacts.Maui.ViewModels.ContactViewModel.EditContact"/>.</summary>
+        </member>
+        <member name="F:Contacts.Maui.ViewModels.ContactViewModel.addContactCommand">
+            <summary>The backing field for <see cref="P:Contacts.Maui.ViewModels.ContactViewModel.AddContactCommand"/>.</summary>
+        </member>
+        <member name="P:Contacts.Maui.ViewModels.ContactViewModel.AddContactCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Contacts.Maui.ViewModels.ContactViewModel.AddContact"/>.</summary>
+        </member>
+        <member name="F:Contacts.Maui.ViewModels.ContactViewModel.backToContactsPageCommand">
+            <summary>The backing field for <see cref="P:Contacts.Maui.ViewModels.ContactViewModel.BackToContactsPageCommand"/>.</summary>
+        </member>
+        <member name="P:Contacts.Maui.ViewModels.ContactViewModel.BackToContactsPageCommand">
+            <summary>Gets an <see cref="T:CommunityToolkit.Mvvm.Input.IAsyncRelayCommand"/> instance wrapping <see cref="M:Contacts.Maui.ViewModels.ContactViewModel.BackToContactsPage"/>.</summary>
+        </member>
         <member name="M:Microsoft.Maui.Controls.ColorAnimationExtensions_Button.TextColorTo(Microsoft.Maui.Controls.Button,Microsoft.Maui.Graphics.Color,System.UInt32,System.UInt32,Microsoft.Maui.Easing)">
             <summary>
             Animates the TextColor of an <see cref = "T:Microsoft.Maui.ITextStyle"/> to the given color

@@ -38,7 +38,7 @@ namespace Contacts.Plugins.DataStore.InMemory
             return Task.CompletedTask;
         }
 
-        public Task<List<Contact>> GetContactAsync(string filterText)
+        public Task<List<Contact>> GetContactsAsync(string filterText)
         {
             var contacts = _contacts.Where(x => !string.IsNullOrWhiteSpace(x.Name) && x.Name.StartsWith(filterText, StringComparison.OrdinalIgnoreCase))?.ToList();
 

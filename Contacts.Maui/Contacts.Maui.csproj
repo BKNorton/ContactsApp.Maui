@@ -50,6 +50,7 @@
 
 	<ItemGroup>
 		<PackageReference Include="CommunityToolkit.Maui" Version="6.0.0" />
+		<PackageReference Include="CommunityToolkit.Mvvm" Version="8.2.2" />
 		<PackageReference Include="Microsoft.Extensions.Logging.Debug" Version="7.0.0" />
 	</ItemGroup>
 
@@ -57,6 +58,13 @@
 	  <ProjectReference Include="..\Contacts.CoreBusiness\Contacts.CoreBusiness.csproj" />
 	  <ProjectReference Include="..\Contacts.Plugins.DataStore.InMemory\Contacts.Plugins.DataStore.InMemory.csproj" />
 	  <ProjectReference Include="..\Contacts.UseCases\Contacts.UseCases.csproj" />
+	  <ProjectReference Include="..\Plugins\Contacts.Plugins.DataStore.SQLite\Contacts.Plugins.DataStore.SQLite.csproj" />
+	</ItemGroup>
+
+	<ItemGroup>
+	  <Compile Update="Views_MVVM\ContactsPage_MVVM.xaml.cs">
+	    <DependentUpon>ContactsPage_MVVM.xaml</DependentUpon>
+	  </Compile>
 	</ItemGroup>
 
 	<ItemGroup>
@@ -70,6 +78,18 @@
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	  <MauiXaml Update="Views\EditContactPage.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views_MVVM\AddContactPage_MVVM.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views_MVVM\ContactsPage_MVVM.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views_MVVM\Controls\ContactControl_MVVM.xaml">
+	    <Generator>MSBuild:Compile</Generator>
+	  </MauiXaml>
+	  <MauiXaml Update="Views_MVVM\EditContactPage_MVVM.xaml">
 	    <Generator>MSBuild:Compile</Generator>
 	  </MauiXaml>
 	</ItemGroup>

@@ -35,6 +35,18 @@
     <MauiXaml Update="Views\EditContactPage.xaml">
       <SubType>Designer</SubType>
     </MauiXaml>
+    <MauiXaml Update="Views_MVVM\AddContactPage_MVVM.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views_MVVM\ContactsPage_MVVM.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views_MVVM\Controls\ContactControl_MVVM.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
+    <MauiXaml Update="Views_MVVM\EditContactPage_MVVM.xaml">
+      <SubType>Designer</SubType>
+    </MauiXaml>
   </ItemGroup>
   <ItemGroup>
     <None Update="Platforms\Windows\Package.appxmanifest">
