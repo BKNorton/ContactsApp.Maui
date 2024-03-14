@@ -40,7 +40,7 @@
   <li>Design for different device specifications</li>
 </ul>
 <p>
-  I also learned new architectures to help construct the app in ways that is more modularized to seperate the UI from the UI logic and the business logic. This is helpful in the development process so that multiple people can be working on different parts of the project at the same time. 
+  I also learned new architectures to help construct apps in ways that is more modularized to seperate the UI from the UI logic and the business logic. This is helpful in the development process so that multiple people can be working on different parts of the project at the same time. 
 </p>
 <ul>
   <li>MVVM or Model-View-ViewModel allows UI development to be done seperate from all logic implementation.</li>
@@ -50,4 +50,40 @@
 <h2>
   Next Steps
 </h2>
+<p>
+  I am on the last module of this course. The last module is where I will use entity framework with a web api to work with the database.
+</p>
+<ol>
+  <li>Finish Udemy course and commit changes.</li>
+  <li>Use as a refrence and continue working on my Item Inventory app.</li>
+</ol>
+<h1>
+  Instructions
+</h1>
+<h2>
+  How to run application
+</h2>
+<ol>
+  <li>After cloning the repository down, open up the Solution.</li>
+  <li>In the dropdown for the debugger, go into Android Device Manager and add a new Emulator. I am using Pixel 5 API33</li>
   
+  ![Screenshot (24)](https://github.com/BKNorton/ContactsApp.Maui/assets/112774855/7666ffd9-a111-4fa1-bda8-05d680593b08)
+
+  <li>Select the emulator and run it.</li>
+  <ul><li>Do not run in windows. There are bugs that crash the project in windows when I have tried it.</li></ul>
+  <li>You can add new contacts by clicking the add button</li>
+  <ul><li>Name and Email are required and Email must be properly formatted.</li></ul>
+  <li>You can swipe a contact from the Contacts page to the left to access the Edit or Delete buttons for the particular Contact.</li>
+  <p>
+    <img height="475" 
+      width="350"
+      src="https://github.com/BKNorton/ContactsApp.Maui/assets/112774855/fe507ba2-ecf7-4bdd-adc4-7ce83b67c277"/>
+    <img height="475" 
+      width="300"
+      src="https://github.com/BKNorton/ContactsApp.Maui/assets/112774855/811e3f7c-7f69-4e5d-83df-c9f5023b542e"/>
+  </p>
+  
+  <li>You can use the searchbar to look for a specific Contact by any of its properties.</li>
+</ol>
+
+ 
