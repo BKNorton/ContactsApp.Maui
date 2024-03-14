@@ -27,6 +27,9 @@
   <li>It uses Use Cases to perform actions on the Repository that is pluged in.</li>
   <li>With the use of dependency injection you can consume the Use Cases without worrying about where the data is or what repository you are using.</li>
 </ul>
+<p>
+  Then the course had you add a SQLite database so the user could persit all their data into an inmemory database/
+</p>
 <h2>
   What I learned
 </h2>
