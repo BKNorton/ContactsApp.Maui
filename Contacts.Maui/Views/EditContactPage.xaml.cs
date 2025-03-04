@@ -1,6 +1,7 @@
 using Contacts.Maui.Models;
 using Contacts.UseCases.Interfaces;
 using Contact = Contacts.CoreBusiness.Contact;
+using Microsoft.Maui.ApplicationModel.Communication;
 
 namespace Contacts.Maui.Views;
 

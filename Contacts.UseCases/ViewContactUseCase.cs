@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Contact = Contacts.CoreBusiness.Contact;
+using Microsoft.Maui.ApplicationModel.Communication;
 
 namespace Contacts.UseCases
 {

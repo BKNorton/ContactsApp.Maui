@@ -1,4 +1,3 @@
-﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.7.34031.279
@@ -13,7 +12,11 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Plugins", "Plugins", "{8C7B
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts.Plugins.DataStore.InMemory", "Contacts.Plugins.DataStore.InMemory\Contacts.Plugins.DataStore.InMemory.csproj", "{6EAF76B7-504B-4749-A378-3CD46D8E9D40}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Plugins.DataStore.SQLite", "Plugins\Contacts.Plugins.DataStore.SQLite\Contacts.Plugins.DataStore.SQLite.csproj", "{D645A95A-3725-441D-A8E8-763D9D44EAD3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts.Plugins.DataStore.SQLite", "Plugins\Contacts.Plugins.DataStore.SQLite\Contacts.Plugins.DataStore.SQLite.csproj", "{D645A95A-3725-441D-A8E8-763D9D44EAD3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Contacts.WebAPI", "Contacts.WebAPI\Contacts.WebAPI.csproj", "{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Contacts.Plugins.DataStore.WebApi", "Plugins\Contacts.Plugins.DataStore.WebApi\Contacts.Plugins.DataStore.WebApi.csproj", "{F2C595AC-13C9-4F42-8F05-E4350E04A935}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -43,6 +46,14 @@ Global
 		{D645A95A-3725-441D-A8E8-763D9D44EAD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D645A95A-3725-441D-A8E8-763D9D44EAD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D645A95A-3725-441D-A8E8-763D9D44EAD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F2C595AC-13C9-4F42-8F05-E4350E04A935}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F2C595AC-13C9-4F42-8F05-E4350E04A935}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F2C595AC-13C9-4F42-8F05-E4350E04A935}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F2C595AC-13C9-4F42-8F05-E4350E04A935}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -50,6 +61,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{6EAF76B7-504B-4749-A378-3CD46D8E9D40} = {8C7B6929-8BF6-4D57-80AC-C8C33B80CA0C}
 		{D645A95A-3725-441D-A8E8-763D9D44EAD3} = {8C7B6929-8BF6-4D57-80AC-C8C33B80CA0C}
+		{F2C595AC-13C9-4F42-8F05-E4350E04A935} = {8C7B6929-8BF6-4D57-80AC-C8C33B80CA0C}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {311E82AE-EE91-4880-AF7A-EB68CF4BC8E5}

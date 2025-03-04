@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Contacts.WebAPI.props" />
+</Project>

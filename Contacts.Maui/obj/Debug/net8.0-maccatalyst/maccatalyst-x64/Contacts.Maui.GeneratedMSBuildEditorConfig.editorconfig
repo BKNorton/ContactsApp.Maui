@@ -1,0 +1,91 @@
+is_global = true
+build_property.EnableAotAnalyzer = 
+build_property.EnableSingleFileAnalyzer = 
+build_property.EnableTrimAnalyzer = false
+build_property.IncludeAllContentForSelfExtract = 
+build_property.TargetFramework = net8.0-maccatalyst
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = 
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = false
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = Contacts.Maui
+build_property.ProjectDir = C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.EffectiveAnalysisLevelStyle = 8.0
+build_property.EnableCodeStyleSeverity = 
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/App.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.App.xaml
+build_metadata.AdditionalFiles.TargetPath = App.xaml
+build_metadata.AdditionalFiles.RelativePath = App.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/AppShell.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.AppShell.xaml
+build_metadata.AdditionalFiles.TargetPath = AppShell.xaml
+build_metadata.AdditionalFiles.RelativePath = AppShell.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Resources/Styles/Colors.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Resources.Styles.Colors.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Colors.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Colors.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Resources/Styles/Styles.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Resources.Styles.Styles.xaml
+build_metadata.AdditionalFiles.TargetPath = Resources\Styles\Styles.xaml
+build_metadata.AdditionalFiles.RelativePath = Resources\Styles\Styles.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views/AddContactPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views.AddContactPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\AddContactPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\AddContactPage.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views/ContactsPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views.ContactsPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\ContactsPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\ContactsPage.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views/Controls/ContactController.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views.Controls.ContactController.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\Controls\ContactController.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\Controls\ContactController.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views/EditContactPage.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views.EditContactPage.xaml
+build_metadata.AdditionalFiles.TargetPath = Views\EditContactPage.xaml
+build_metadata.AdditionalFiles.RelativePath = Views\EditContactPage.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views_MVVM/AddContactPage_MVVM.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.AddContactPage_MVVM.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM\AddContactPage_MVVM.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM\AddContactPage_MVVM.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views_MVVM/ContactsPage_MVVM.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.ContactsPage_MVVM.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM\ContactsPage_MVVM.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM\ContactsPage_MVVM.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views_MVVM/Controls/ContactControl_MVVM.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.Controls.ContactControl_MVVM.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM\Controls\ContactControl_MVVM.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM\Controls\ContactControl_MVVM.xaml
+
+[C:/Users/Kirk/source/repos/Contacts/Contacts.Maui/Views_MVVM/EditContactPage_MVVM.xaml]
+build_metadata.AdditionalFiles.GenKind = Xaml
+build_metadata.AdditionalFiles.ManifestResourceName = Contacts.Maui.Views_MVVM.EditContactPage_MVVM.xaml
+build_metadata.AdditionalFiles.TargetPath = Views_MVVM\EditContactPage_MVVM.xaml
+build_metadata.AdditionalFiles.RelativePath = Views_MVVM\EditContactPage_MVVM.xaml
