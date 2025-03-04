@@ -1,8 +1,0 @@
-<?xml version="1.0"?>
-<doc>
-    <assembly>
-        <name>Contacts.Plugins.DataStore.InMemory</name>
-    </assembly>
-    <members>
-    </members>
-</doc>

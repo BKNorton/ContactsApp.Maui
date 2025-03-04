@@ -1,5 +1,3 @@
-Contacts.CoreBusiness.dll
-Contacts.UseCases.dll
 GoogleGson.dll
 Jsr305Binding.dll
 Microsoft.Maui.Controls.Compatibility.dll
@@ -161,3 +159,5 @@ Microsoft.Maui.aar
 Microsoft.Maui.Essentials.aar
 Xamarin.Google.Crypto.Tink.Android.aar
 Xamarin.Google.ErrorProne.Annotations.aar
+Contacts.CoreBusiness.dll
+Contacts.UseCases.dll

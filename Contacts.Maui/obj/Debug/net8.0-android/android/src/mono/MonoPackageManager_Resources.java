@@ -149,6 +149,9 @@ public class MonoPackageManager_Resources {
 		"Contacts.Plugins.DataStore.SQLite.dll",
 		"Contacts.Plugins.DataStore.WebApi.dll",
 		"Contacts.UseCases.dll",
+		"Microsoft.Maui.Controls.HotReload.Forms.dll",
+		"Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll",
+		"Microsoft.VisualStudio.DesignTools.TapContract.dll",
 		"_Microsoft.Android.Resource.Designer.dll",
 	};
 	public static String[] Dependencies = new String[]{

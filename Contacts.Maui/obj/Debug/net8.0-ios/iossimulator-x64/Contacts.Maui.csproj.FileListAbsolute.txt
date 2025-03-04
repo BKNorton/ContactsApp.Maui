@@ -269,11 +269,16 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimula
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.CoreBusiness.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.InMemory.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.SQLite.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.WebApi.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.UseCases.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.Maui.Controls.HotReload.Forms.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.MobileTapContracts.dll
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Microsoft.VisualStudio.DesignTools.TapContract.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.CoreBusiness.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.InMemory.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.UseCases.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.SQLite.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.WebApi.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.inputs
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.inputs
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\mauisplash.inputs
@@ -299,6 +304,7 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimula
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot@2x.png
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\r\dotnet_bot.png
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.stamp
+C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.outputs
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\f\MauiInfo.plist
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\mauifont.stamp
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\resizetizer\f\OpenSans-Regular.ttf
@@ -326,6 +332,3 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimula
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\Contacts.Maui.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\Contacts.Maui.genruntimeconfig.cache
 C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\ref\Contacts.Maui.dll
-C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.WebApi.dll
-C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\bin\Debug\net8.0-ios\iossimulator-x64\Contacts.Plugins.DataStore.WebApi.pdb
-C:\Users\Kirk\source\repos\Contacts\Contacts.Maui\obj\Debug\net8.0-ios\iossimulator-x64\mauiimage.outputs

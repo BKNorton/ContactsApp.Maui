@@ -8,6 +8,7 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\bin\Debug\net8.0-andro
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\.NETCoreApp,Version=v8.0.AssemblyAttributes.cs
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\build.props
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\adb.props
+C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\_CompileBindingJava.FileList.txt
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\Contacts.CoreBusiness.csproj.AssemblyReference.cache
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\libraryprojectimports.cache
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\stamp\_BuildLibraryImportsCache.stamp
@@ -85,4 +86,3 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-andro
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\stamp\_CleanIntermediateIfNeeded.stamp
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\stamp\_ConvertResourcesCases.stamp
 C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\stamp\_ResolveLibraryProjectImports.stamp
-C:\Users\Kirk\source\repos\Contacts\Contacts.CoreBusiness\obj\Debug\net8.0-android\_CompileBindingJava.FileList.txt

@@ -3,18 +3,6 @@
   "WorkspaceRootPath": "C:\\Users\\Kirk\\source\\repos\\Contacts\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|solutionrelative:contacts.webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C595AC-13C9-4F42-8F05-E4350E04A935}|Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj|c:\\users\\kirk\\source\\repos\\contacts\\plugins\\contacts.plugins.datastore.webapi\\contactwebapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C595AC-13C9-4F42-8F05-E4350E04A935}|Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj|solutionrelative:plugins\\contacts.plugins.datastore.webapi\\contactwebapirepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\viewmodels\\contactsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -23,36 +11,8 @@
       "RelativeMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|solutionrelative:contacts.webapi\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6EAF76B7-504B-4749-A378-3CD46D8E9D40}|Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.plugins.datastore.inmemory\\contactinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6EAF76B7-504B-4749-A378-3CD46D8E9D40}|Contacts.Plugins.DataStore.InMemory\\Contacts.Plugins.DataStore.InMemory.csproj|solutionrelative:contacts.plugins.datastore.inmemory\\contactinmemoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F2C595AC-13C9-4F42-8F05-E4350E04A935}|Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj|c:\\users\\kirk\\source\\repos\\contacts\\plugins\\contacts.plugins.datastore.webapi\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F2C595AC-13C9-4F42-8F05-E4350E04A935}|Plugins\\Contacts.Plugins.DataStore.WebApi\\Contacts.Plugins.DataStore.WebApi.csproj|solutionrelative:plugins\\contacts.plugins.datastore.webapi\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|solutionrelative:contacts.webapi\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\views_mvvm\\contactspage_mvvm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\views_mvvm\\contactspage_mvvm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\views\\contactspage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\views_mvvm\\controls\\contactcontrol_mvvm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\views_mvvm\\controls\\contactcontrol_mvvm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\views_mvvm\\controls\\contactcontrol_mvvm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\views_mvvm\\controls\\contactcontrol_mvvm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\views_mvvm\\addcontactpage_mvvm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\views_mvvm\\addcontactpage_mvvm.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\views_mvvm\\addcontactpage_mvvm.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -65,18 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.maui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C0181462-1DDA-4CF0-9C7D-07AB38A97C10}|Contacts.Maui\\Contacts.Maui.csproj|solutionrelative:contacts.maui\\platforms\\android\\mainapplication.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|solutionrelative:contacts.webapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.webapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|solutionrelative:contacts.webapi\\models\\contact.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|c:\\users\\kirk\\source\\repos\\contacts\\contacts.webapi\\migrations\\20240404160234_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D6CD00C3-EDE6-470F-97DE-31C5D0BC1250}|Contacts.WebAPI\\Contacts.WebAPI.csproj|solutionrelative:contacts.webapi\\migrations\\20240404160234_init.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -86,7 +34,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 13,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -106,7 +54,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 5,
               "Title": "MainApplication.cs",
               "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Platforms\\Android\\MainApplication.cs",
               "RelativeDocumentMoniker": "Contacts.Maui\\Platforms\\Android\\MainApplication.cs",
@@ -114,11 +62,12 @@
               "RelativeToolTip": "Contacts.Maui\\Platforms\\Android\\MainApplication.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:26:38.192Z"
+              "WhenOpened": "2024-04-12T16:26:38.192Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 2,
               "Title": "appsettings.Development.json",
               "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\appsettings.Development.json",
               "RelativeDocumentMoniker": "Contacts.WebAPI\\appsettings.Development.json",
@@ -130,7 +79,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "Contacts.WebAPI\\ApplicationDbContext.cs",
@@ -142,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "ContactsViewModel.cs",
               "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\ViewModels\\ContactsViewModel.cs",
               "RelativeDocumentMoniker": "Contacts.Maui\\ViewModels\\ContactsViewModel.cs",
@@ -154,7 +103,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "EditContactPage_MVVM.xaml",
               "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\EditContactPage_MVVM.xaml",
               "RelativeDocumentMoniker": "Contacts.Maui\\Views_MVVM\\EditContactPage_MVVM.xaml",
@@ -162,11 +111,12 @@
               "RelativeToolTip": "Contacts.Maui\\Views_MVVM\\EditContactPage_MVVM.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-12T20:32:23.682Z"
+              "WhenOpened": "2024-09-12T20:32:23.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 3,
               "Title": "AddContactPage_MVVM.xaml",
               "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\AddContactPage_MVVM.xaml",
               "RelativeDocumentMoniker": "Contacts.Maui\\Views_MVVM\\AddContactPage_MVVM.xaml",
@@ -174,164 +124,8 @@
               "RelativeToolTip": "Contacts.Maui\\Views_MVVM\\AddContactPage_MVVM.xaml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-11T18:39:45.734Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ContactControl_MVVM.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml.cs",
-              "RelativeDocumentMoniker": "Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml.cs",
-              "RelativeToolTip": "Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T21:54:32.962Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ContactWebApiRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.WebApi\\ContactWebApiRepository.cs",
-              "RelativeDocumentMoniker": "Plugins\\Contacts.Plugins.DataStore.WebApi\\ContactWebApiRepository.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.WebApi\\ContactWebApiRepository.cs",
-              "RelativeToolTip": "Plugins\\Contacts.Plugins.DataStore.WebApi\\ContactWebApiRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFUAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:10:58.945Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Program.cs",
-              "RelativeDocumentMoniker": "Contacts.WebAPI\\Program.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Program.cs",
-              "RelativeToolTip": "Contacts.WebAPI\\Program.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAABMAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T15:48:28.068Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "MauiProgram.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\MauiProgram.cs",
-              "RelativeDocumentMoniker": "Contacts.Maui\\MauiProgram.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\MauiProgram.cs",
-              "RelativeToolTip": "Contacts.Maui\\MauiProgram.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAqwCgAAABAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:49:31.117Z",
+              "WhenOpened": "2024-09-11T18:39:45.734Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ContactControl_MVVM.xaml",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml",
-              "RelativeDocumentMoniker": "Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml",
-              "RelativeToolTip": "Contacts.Maui\\Views_MVVM\\Controls\\ContactControl_MVVM.xaml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-11T18:25:15.456Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Constants.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Constants.cs",
-              "RelativeDocumentMoniker": "Plugins\\Contacts.Plugins.DataStore.WebApi\\Constants.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Plugins\\Contacts.Plugins.DataStore.WebApi\\Constants.cs",
-              "RelativeToolTip": "Plugins\\Contacts.Plugins.DataStore.WebApi\\Constants.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABHAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-12T16:23:44.593Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ContactInMemoryRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\ContactInMemoryRepository.cs",
-              "RelativeDocumentMoniker": "Contacts.Plugins.DataStore.InMemory\\ContactInMemoryRepository.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Plugins.DataStore.InMemory\\ContactInMemoryRepository.cs",
-              "RelativeToolTip": "Contacts.Plugins.DataStore.InMemory\\ContactInMemoryRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T22:52:52.441Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ContactsPage_MVVM.xaml",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\ContactsPage_MVVM.xaml",
-              "RelativeDocumentMoniker": "Contacts.Maui\\Views_MVVM\\ContactsPage_MVVM.xaml",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\ContactsPage_MVVM.xaml",
-              "RelativeToolTip": "Contacts.Maui\\Views_MVVM\\ContactsPage_MVVM.xaml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAACYAAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-12T02:56:42.313Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ContactsPage.xaml",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views\\ContactsPage.xaml",
-              "RelativeDocumentMoniker": "Contacts.Maui\\Views\\ContactsPage.xaml",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views\\ContactsPage.xaml",
-              "RelativeToolTip": "Contacts.Maui\\Views\\ContactsPage.xaml",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-09-12T23:46:11.106Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "AddContactPage_MVVM.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\AddContactPage_MVVM.xaml.cs",
-              "RelativeDocumentMoniker": "Contacts.Maui\\Views_MVVM\\AddContactPage_MVVM.xaml.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.Maui\\Views_MVVM\\AddContactPage_MVVM.xaml.cs",
-              "RelativeToolTip": "Contacts.Maui\\Views_MVVM\\AddContactPage_MVVM.xaml.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T20:33:41.939Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "Contacts.WebAPI\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Properties\\launchSettings.json",
-              "RelativeToolTip": "Contacts.WebAPI\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-04-04T16:26:46.226Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "20240404160234_Init.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Migrations\\20240404160234_Init.cs",
-              "RelativeDocumentMoniker": "Contacts.WebAPI\\Migrations\\20240404160234_Init.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Migrations\\20240404160234_Init.cs",
-              "RelativeToolTip": "Contacts.WebAPI\\Migrations\\20240404160234_Init.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T16:02:34.946Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "Contact.cs",
-              "DocumentMoniker": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Models\\Contact.cs",
-              "RelativeDocumentMoniker": "Contacts.WebAPI\\Models\\Contact.cs",
-              "ToolTip": "C:\\Users\\Kirk\\source\\repos\\Contacts\\Contacts.WebAPI\\Models\\Contact.cs",
-              "RelativeToolTip": "Contacts.WebAPI\\Models\\Contact.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-04-04T16:01:49.538Z"
             }
           ]
         }

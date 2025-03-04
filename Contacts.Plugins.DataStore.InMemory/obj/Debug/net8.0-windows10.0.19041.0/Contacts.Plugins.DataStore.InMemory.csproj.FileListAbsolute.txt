@@ -3,8 +3,8 @@ C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debu
 C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-windows10.0.19041.0\Contacts.Plugins.DataStore.InMemory.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBusiness.dll
 C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.dll
-C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBusiness.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-windows10.0.19041.0\Contacts.UseCases.pdb
+C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\bin\Debug\net8.0-windows10.0.19041.0\Contacts.CoreBusiness.pdb
 C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-windows10.0.19041.0\Contacts.Plugins.DataStore.InMemory.csproj.AssemblyReference.cache
 C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-windows10.0.19041.0\Contacts.Plugins.DataStore.InMemory.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Kirk\source\repos\Contacts\Contacts.Plugins.DataStore.InMemory\obj\Debug\net8.0-windows10.0.19041.0\Contacts.Plugins.DataStore.InMemory.AssemblyInfoInputs.cache
